@@ -1,0 +1,396 @@
+----- Salmonella typhi -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Salmonella enteritidis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bacillus circulans -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Corynebacterium pseudodiphthericum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pseudomonas stutzeri -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Klebsiella granulomatis -----
+Error: The taxonomy name 'Klebsiella granulomatis' (taxid: '39824') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Lactobacillus plantarum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia venezuelensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Neisseria flava -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Prevotella zoogleoformans -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia latyschewii -----
+Error: The taxonomy name 'Borrelia latyschewii' (taxid: '1027767') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia caucasica -----
+Error: The taxonomy name 'Borrelia caucasica' (taxid: '1653833') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia brasiliensis -----
+Error: The taxonomy name 'Borrelia brasiliensis' (taxid: '1653832') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia mazzottii -----
+Error: The taxonomy name 'Borrelia mazzottii' (taxid: '1653837') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium microti -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Alcaligenes odorans -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycoplasma pneumoniae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia parkeri -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium africanum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium bovis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium farcinogenes -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pasteurella aerogenes -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium brachy -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium nodatum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Actinobacillus hominis -----
+Error: The taxonomy name 'Actinobacillus hominis' (taxid: '719') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium sulci -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pasteurella stomatis -----
+Error: The taxonomy name 'Pasteurella stomatis' (taxid: '760') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Prevotella oulora -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Alcaligenes piechaudii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium yurii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Weeksella zoohelcum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bacteroides pectinophilus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pasteurella caballi -----
+Error: The taxonomy name 'Pasteurella caballi' (taxid: '243701') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Campylobacter butzleri -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ehrlichia ewingii -----
+Error: The taxonomy name 'Ehrlichia ewingii' (taxid: '947') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Peptostreptococcus lactolyticus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Peptostreptococcus vaginalis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium saphenum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia massiliae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Tsukamurella inchonensis -----
+Error: The taxonomy name 'Tsukamurella inchonensis' (taxid: '42777') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bifidobacterium denticolens -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Bifidobacterium inopinatum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia lonestari -----
+Error: The taxonomy name 'Borrelia lonestari' (taxid: '38876') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium exiguum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Eubacterium minutum -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia africae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia mongolotimonae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Treponema amylovorum -----
+Error: The taxonomy name 'Treponema amylovorum' (taxid: '59892') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Gemella bergeriae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Corynebacterium sundsvallense -----
+Error: The taxonomy name 'Corynebacterium sundsvallense' (taxid: '161902') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Facklamia sourekii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium caprae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Actinomyces funkei -----
+Error: The taxonomy name 'Actinomyces funkei' (taxid: '132933') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Nocardia cyriacigeorgici -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Pseudomonas andersonii -----
+Error: The taxonomy name 'Pseudomonas andersonii' (taxid: '147728') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia aeschlimannii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium pinnipedii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Ralstonia respiraculi -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Varibaculum cambriensis -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium chimaera -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Dialister propionicifaciens -----
+Error: The taxonomy name 'Dialister propionicifaciens' (taxid: '308994') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Borrelia spielmanii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium massiliense -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Clostridium aldenense -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Rickettsia raoultii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Staphylococcus pseudolugdunensis -----
+Error: The taxonomy name 'Staphylococcus pseudolugdunensis' (taxid: '425474') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Chryseobacterium anthropi -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Mycobacterium mungi -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Peptoniphilus tyrrelliae -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Streptococcus tigurinus -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Nocardia kroppenstedtii -----
+Error: The taxonomy name 'Nocardia kroppenstedtii' (taxid: '341199') is valid, but no genome data is currently available for this taxon.
+
+Use datasets download genome taxon <command> --help for detailed help about a command.
+----- Anaerococcus degenerii -----
+Error: There are no genome assemblies that match your query.
+Please try again using different search criteria.
+
+
+Use datasets download genome taxon <command> --help for detailed help about a command.

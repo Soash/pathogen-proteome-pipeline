@@ -1,0 +1,9 @@
+2026-04-20 00:10:42,485 - INFO - Reading target file: results/organism_to_txid_final.tsv
+2026-04-20 00:10:42,491 - INFO - Dataset shape loaded: (1510, 4)
+2026-04-20 00:10:42,495 - INFO - Status distribution:
+status
+established    1107
+putative        403
+2026-04-20 00:10:42,495 - INFO - Filtering dataset for 'established' species...
+2026-04-20 00:10:42,498 - INFO - Writing 1107 species to species.txt...
+2026-04-20 00:10:42,503 - INFO - Extraction complete! The species list is ready for downloading proteomes.

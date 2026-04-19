@@ -1,0 +1,26 @@
+2026-04-19 23:58:45,662 - INFO - Loading initial dataset from: results/organism_to_txid_initial.tsv
+2026-04-19 23:58:45,671 - INFO - Initial Status Distribution:
+status
+established    1110
+putative        403
+2026-04-19 23:58:45,672 - INFO - Applying manual taxonomy fixes...
+2026-04-19 23:58:45,674 - INFO -   Fixed: Eubacterium cylindroides -> Faecalitalea cylindroides (TXID: 39483)
+2026-04-19 23:58:45,676 - INFO -   Fixed: Eubacterium moniliforme -> Clostridium moniliforme (TXID: 39489)
+2026-04-19 23:58:45,678 - INFO -   Fixed: Streptococcus sanguis -> Streptococcus sanguinis (TXID: 1305)
+2026-04-19 23:58:45,679 - INFO -   Fixed: Propionibacterium propionicum -> Arachnia propionica (TXID: 1750)
+2026-04-19 23:58:45,681 - INFO -   Fixed: Tsukamurella strandjordae -> Tsukamurella strandjordii (TXID: 147577)
+2026-04-19 23:58:45,683 - INFO -   Fixed: Bacteroides denticanum -> Bacteroides denticanium (TXID: 266833)
+2026-04-19 23:58:45,686 - INFO -   Fixed: Chitinophaga terrae -> Chitinophaga terrae (TXID: 408074)
+2026-04-19 23:58:45,688 - INFO -   Fixed: Pseudoclavibacter bifida -> Gulosibacter bifidus (TXID: 272239)
+2026-04-19 23:58:45,689 - INFO -   Fixed: Vibrio injenensis -> Vibrio injensis (TXID: 1307414)
+2026-04-19 23:58:45,691 - INFO -   Fixed: Campylobacter infans -> Candidatus Campylobacter infans (TXID: 2561898)
+2026-04-19 23:58:45,693 - INFO -   Fixed: Megasphaera vaginalis -> Megasphaera vaginalis (TXID: 2045301)
+2026-04-19 23:58:45,694 - INFO -   Fixed: Parapseudoflavitalea muciniphila -> Pseudoflavitalea muciniphila (TXID: 2100819)
+2026-04-19 23:58:45,694 - INFO - Dropping unresolved organisms:
+2026-04-19 23:58:45,696 - INFO -   Dropped: Rickettsia xinyangensis (Status: established)
+2026-04-19 23:58:45,698 - INFO -   Dropped: Treponema carateum (Status: established)
+2026-04-19 23:58:45,699 - INFO -   Dropped: Propionibacterium granulosum (Status: established)
+2026-04-19 23:58:45,702 - INFO - No duplicates found in the dataset.
+2026-04-19 23:58:45,703 - INFO - Organisms remaining with missing TXIDs: 0
+2026-04-19 23:58:45,703 - INFO - Final dataset shape: (1510, 4)
+2026-04-19 23:58:45,710 - INFO - All manual fixes applied! Final clean dataset saved to results/organism_to_txid_final.tsv.
