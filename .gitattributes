@@ -1,0 +1,1 @@
+bacteria_human_pathogens.fasta.gz filter=lfs diff=lfs merge=lfs -text
