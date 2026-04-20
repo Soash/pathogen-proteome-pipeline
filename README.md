@@ -105,7 +105,7 @@ gzip bacteria_human_pathogens.fasta
 
 You can directly download the bacteria_human_pathogens.fasta.gz
 ```bash
-# Example: wget https://github.com/Soash/pathogen-proteome-pipeline/blob/main/bacteria_human_pathogens.fasta.gz
+wget https://github.com/Soash/pathogen-proteome-pipeline/blob/main/bacteria_human_pathogens.fasta.gz
 ```
 
 The resulting `bacteria_human_pathogens.fasta.gz` can be used for local alignment searches to find broad-spectrum targets. Depending on your tool of choice, you can use standard BLAST or a faster alternative like DIAMOND (which natively supports `.gz` inputs).
