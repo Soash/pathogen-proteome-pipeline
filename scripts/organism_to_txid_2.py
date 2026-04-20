@@ -30,10 +30,10 @@ def main():
     # 1. Define manual fixes dictionary
     manual_fixes = {
         # established
-        "Eubacterium cylindroides": ("Faecalitalea cylindroides", "39483"),
-        "Eubacterium moniliforme": ("Clostridium moniliforme", "39489"),
-        "Streptococcus sanguis": ("Streptococcus sanguinis", "1305"),
-        "Propionibacterium propionicum": ("Arachnia propionica", "1750"),
+        "Eubacterium cylindroides": ("Faecalitalea cylindroides", "39483"), # Homotypic synonyms
+        "Eubacterium moniliforme": ("Clostridium moniliforme", "39489"), # Homotypic synonyms
+        "Streptococcus sanguis": ("Streptococcus sanguinis", "1305"), # Spelling correction
+        "Propionibacterium propionicum": ("Arachnia propionica", "1750"), # Homotypic synonyms
 
         # putative
         "Tsukamurella strandjordae": ("Tsukamurella strandjordii", "147577"),
@@ -61,9 +61,9 @@ def main():
 
     # 3. Define organisms to drop
     organisms_to_drop = [
-        "Rickettsia xinyangensis", 
-        "Treponema carateum", 
-        "Propionibacterium granulosum"
+        "Rickettsia xinyangensis", # Cannot yet be cultured in a laboratory
+        "Treponema carateum", # Cannot yet be cultured in a laboratory
+        "Propionibacterium granulosum" # Cutibacterium granulosum already has a valid Taxonomy ID, Homotypic synonyms
     ]
 
     # 4. Drop them cleanly AND log their status
