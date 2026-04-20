@@ -103,6 +103,7 @@ gzip bacteria_human_pathogens.fasta
 
 ## 🛠️ Downstream Usage
 
+You can directly download the bacteria_human_pathogens.fasta.gz
 ```bash
 # Example: wget https://github.com/Soash/pathogen-proteome-pipeline/blob/main/bacteria_human_pathogens.fasta.gz
 ```
